@@ -13,7 +13,7 @@ It was created during the period when many global apps (especially games) used u
 However, the tool remains useful for **educational purposes** and as a reference for developers who want to understand:
 - Memory reading/writing on Android
 - ImGui integration with native Android (Vulkan & OpenGL)
-- ESP features (player, monster, minimap)
+- Debug Layer Info with Draw in Front Display
 - Touch simulation
 - Reverse engineering game structures (especially Mobile Legends)
 
@@ -21,17 +21,18 @@ However, the tool remains useful for **educational purposes** and as a reference
 
 ## Features
 
-- **ESP System**
-  - Hero ESP with icons and health
-  - Monster ESP with distance & health
-  - Line ESP
-  - Minimap ESP
+- **Debug Layer Info with Draw in Front Display**
+  - Real-time hero information overlay
+  - Monster information with distance & health
+  - Line drawing
+  - Minimap information layer
 
-- **Auto Retribution**
-  - Auto skill for Lord, Turtle, Buffs, etc.
+- **Estimated Logic Tool for Automation of Health Monster Response with Specific Spell Trigger**
+  - Intelligent automation for monster health response
+  - Specific spell trigger logic (Lord, Turtle, Buffs, etc.)
 
 - **ImGui Interface**
-  - Clean tabbed UI (ESP, Retri, Minimap, Settings)
+  - Clean tabbed UI (Debug Layer, Automation Logic, Minimap, Settings)
   - Theme switcher
   - Adjustable settings
 
