@@ -6,7 +6,7 @@ A native Android external tool built with JNI, ImGui, and Vulkan/OpenGL support 
 
 ## About This Project
 
-This project has existed since **2023** and received its last major update in **2024**.
+This project has existed since **2023** and received its last major update in **2025**.
 
 It was created during the period when many global apps (especially games) used unusual package name tags such as **"huawei"** for Unity Engine builds targeting Huawei devices. This version was part of an experimental effort that ultimately failed to gain adoption from Google and Huawei, leading to the discontinuation of the official Huawei-tagged version.
 
@@ -50,7 +50,7 @@ However, the tool remains useful for **educational purposes** and as a reference
 - The original open source repo has been lost
 - **For learning and educational purposes only**
 - **Do not use for any unwanted or prohibited activities**
-- This repo is frozen at the offset of **Mobile Legends: Bang Bang (Huawei) 21.9.99.10932** (August 26, 2026)
+- This repo is frozen at the offset of **Mobile Legends: Bang Bang (Huawei) 21.9.99.10932** (August 26, 2025)
 
 ## Building
 
