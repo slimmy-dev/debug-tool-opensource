@@ -42,6 +42,16 @@ However, the tool remains useful for **educational purposes** and as a reference
   - Vulkan + OpenGL support
   - Touch injection
 
+## Important Notice
+
+- Spesifik hanya untuk apps yang pernah bertag **Huawei version**
+- Tidak compatible dengan versi Global
+- Versi Huawei berbeda karena dulunya ada upaya convert native ke Huawei
+- Repo asli open source tersebut sudah hilang
+- **Hanya untuk tujuan pembelajaran**
+- **Jangan digunakan untuk hal-hal yang tidak diinginkan**
+- Repo ini berhenti di offset kode versi **Mobile Legends: Bang Bang (Huawei) 22.1.61.11705** (March 19, 2026)
+
 ## Building
 
 Run the compile script (requires Android NDK):
