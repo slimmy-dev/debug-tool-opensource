@@ -44,13 +44,13 @@ However, the tool remains useful for **educational purposes** and as a reference
 
 ## Important Notice
 
-- Spesifik hanya untuk apps yang pernah bertag **Huawei version**
-- Tidak compatible dengan versi Global
-- Versi Huawei berbeda karena dulunya ada upaya convert native ke Huawei
-- Repo asli open source tersebut sudah hilang
-- **Hanya untuk tujuan pembelajaran**
-- **Jangan digunakan untuk hal-hal yang tidak diinginkan**
-- Repo ini berhenti di offset kode versi **Mobile Legends: Bang Bang (Huawei) 22.1.61.11705** (March 19, 2026)
+- Specifically for apps that were once tagged with **Huawei version**
+- Not compatible with the Global version
+- The Huawei version is different because there was an attempt to convert native to Huawei
+- The original open source repo has been lost
+- **For learning and educational purposes only**
+- **Do not use for any unwanted or prohibited activities**
+- This repo is frozen at the offset of **Mobile Legends: Bang Bang (Huawei) 22.1.61.11705** (March 19, 2026)
 
 ## Building
 
