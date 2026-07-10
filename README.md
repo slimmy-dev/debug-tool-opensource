@@ -50,7 +50,7 @@ However, the tool remains useful for **educational purposes** and as a reference
 - The original open source repo has been lost
 - **For learning and educational purposes only**
 - **Do not use for any unwanted or prohibited activities**
-- This repo is frozen at the offset of **Mobile Legends: Bang Bang (Huawei) 22.1.61.11705** (March 19, 2026)
+- This repo is frozen at the offset of **Mobile Legends: Bang Bang (Huawei) 21.9.99.10932** (August 26, 2026)
 
 ## Building
 
